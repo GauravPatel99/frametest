@@ -1,0 +1,26 @@
+{
+  "name": "frametest",
+  "version": "1.0.0",
+  "description": "Checking the functioning of Frames",
+  "main": "checkFrame.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravPatel99/frametest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravPatel99/frametest/issues"
+  },
+  "homepage": "https://github.com/GauravPatel99/frametest#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
